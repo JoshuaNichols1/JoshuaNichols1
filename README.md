@@ -5,8 +5,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my Python Skills
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about anything
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/joshua-nichols-513563122/)
 - 🥅 2020 Goal: To learn more programming languages and program more
+
+<br />
+
+### Connect with me:
+
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
   <br />
 
 ### Languages and Tools:
@@ -20,3 +25,5 @@ Here are some ideas to get you started:
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+[linkedin]: https://www.linkedin.com/in/joshua-nichols-513563122/
