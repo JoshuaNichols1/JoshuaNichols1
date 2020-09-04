@@ -33,5 +33,5 @@ Here are some ideas to get you started:
   <img alt="GitHub" width="70px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 </p><hr>
 
-![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=JoshuaNichols1&count_private=true&show_icons=true)
+![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=JoshuaNichols1&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaNichols1&layout=compact)](https://github.com/JoshuaNichols1/github-readme-stats)
