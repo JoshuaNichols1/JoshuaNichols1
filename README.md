@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### 📢 Find me elsewhere
 
 <p align="center">
-  <a href="www.linkedin.com/in/joshua-nichols1">
+  <a href="https://www.linkedin.com/in/joshua-nichols1/">
     <img src="https://github.com/JoshuaNichols1/JoshuaNichols1/blob/master/svg/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a> 
   <a href="https://www.hackerrank.com/joshuajamesnich1?hr_r=1">
