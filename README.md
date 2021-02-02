@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my Python Skills
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about anything
-- 🥅 2020 Goal: To learn more programming languages and program more
+- 🥅 2021 Goal: To learn more programming languages and program more
 
 ---
 
