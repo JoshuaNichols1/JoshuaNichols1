@@ -29,7 +29,6 @@ Here are some ideas to get you started:
   <img alt="Java8" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
   <img alt="VB.Net" width="70px" src="https://icon-library.com/images/vb-net-icon/vb-net-icon-22.jpg" />
   <img alt="SQL" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-  <img alt="MySQL" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
   <img alt="GitHub" width="70px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 </p><hr>
 
