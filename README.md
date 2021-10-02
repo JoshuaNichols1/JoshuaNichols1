@@ -20,7 +20,7 @@
 
 ### 🚧 I build with:
 <p align="center">
-  <img alt="Visual Studio Code" width="70px" src="https://pbs.twimg.com/profile_images/1278357302601347072/BGZIBPH9_400x400.jpg" />
+  <img alt="Visual Studio Code" width="70px" src="https://pbs.twimg.com/profile_images/1410632439370641409/Pt-7RucE_400x400.jpg" />
   <img alt="HTML5" width="70px" src="https://symbols-electrical.getvecta.com/stencil_25/37_html5.63ca2940ce.jpg" />
   <img alt="CSS3" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqOXThy0yOFKarAr2oXNNlgkLY3TC4Yc5C5g&usqp=CAU" />
   <img alt="Python3" width="70px" src="https://pbs.twimg.com/profile_images/439154912719413248/pUBY5pVj_normal.png" />
