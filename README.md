@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my Python Skills
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about anything
-- 🥅 2021 Goal: To learn more programming languages and program more
+- 🥅 2023 Goal: Continue Learning
 
 ---
 
